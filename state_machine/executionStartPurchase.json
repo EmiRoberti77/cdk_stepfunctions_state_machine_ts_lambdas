@@ -1,0 +1,9 @@
+{
+  "operation": "purchase",
+  "data": {
+    "itemId": "12345",
+    "quantity": 2,
+    "userId": "user-001",
+    "timestamp": "2025-01-12T10:30:00Z"
+  }
+}
