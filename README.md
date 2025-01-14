@@ -148,6 +148,23 @@ Create a state machine using the following JSON definition:
   }
 }
 ```
+## Add State machine instructions 
+
+![stateMachine](https://github.com/user-attachments/assets/37573212-b1ce-46c2-85af-dff940207b97)
+
+## Confirm a role creation
+
+![confirm_role_creation](https://github.com/user-attachments/assets/523e9680-19ff-407a-ba6b-059fb2873159)
+
+## Test a execution using a start JSON payload
+
+![startExcecutionPurchase](https://github.com/user-attachments/assets/773cb8f4-763f-498f-b647-5f6dc283d251)
+
+## Final output showing the purchase path being executed
+
+![excuctionPathPurchase](https://github.com/user-attachments/assets/aab1d214-454d-4c8a-a8e3-0e44095c7335)
+
+
 
 ## CDK
 
